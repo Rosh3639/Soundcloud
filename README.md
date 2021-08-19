@@ -1,2 +1,2 @@
 # Soundcloud
-A soundcloud player built using vanilla javascript
+A soundcloud music player built using vanilla javascript
