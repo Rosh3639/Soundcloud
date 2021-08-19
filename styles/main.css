@@ -67,3 +67,38 @@ body {
 	justify-content: center;
 	margin-top: 30px;
 }
+
+footer {
+	position: fixed;
+    right: 35px;
+    bottom: 0;
+    height: 135px;
+    overflow: hidden;
+    font-family: sans-serif;
+    color: black;
+    font-weight: 600;
+}
+
+.fa {
+	padding: 17px;
+    font-size: 25px;
+    width: 61px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+}
+
+.fa:hover {
+	opacity: 0.7;
+}
+
+.fa-linkedin {
+	background: #007bb5;
+	color: white;
+}
+
+.fa-github {
+	background: #080808;
+	color: white;
+}
